@@ -1,0 +1,18 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  padding-top: 3.4rem;
+}
+
+.btn:focus,
+.btn:active {
+  outline: none !important;
+  box-shadow: none;
+}
+
+#popDialog {
+  background-color: rgba(0, 0, 0, 0.356);
+}
